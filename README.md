@@ -1,3 +1,4 @@
+![Matrix Header](./matrix_glitch_banner_luiz.svg)
 # Hi 👋, I'm Luiz Henrique
 
 💻 **Software Engineering Student | Software Development & Architecture**  
