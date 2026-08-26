@@ -9,16 +9,11 @@ I'm a Software Engineering student focused on **designing, developing, and under
 
 My interests go beyond writing code. I enjoy understanding **requirements, modeling systems, designing architectures, defining APIs, structuring databases, and turning ideas into well-designed software solutions**.
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luiz%20Henrique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-henrique-da-silva-machado/)
+[![GitHub](https://img.shields.io/badge/GitHub-LuizHMachadoDevv-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizhmachadodevv)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:machadoluiz659@gmail.com)
 
-<p align="center">
-  <a href="https://github.com/luizhmachadodevv">
-    <img src="https://img.shields.io/badge/GitHub-LUIZ%20HENRIQUE-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/luiz-henrique-da-silva-machado/">
-    <img src="https://img.shields.io/badge/LinkedIn-LUIZ%20HENRIQUE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+</div>
 
 ---
 
