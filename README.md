@@ -14,7 +14,7 @@ I have hands-on experience with web applications, backend development, REST APIs
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/SEU_USERNAME">
+  <a href="https://github.com/luizhmachadodevv">
     <img src="https://img.shields.io/badge/GitHub-LUIZ%20HENRIQUE-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="SEU_LINKEDIN">
@@ -154,8 +154,8 @@ I believe good software engineering is not only about writing code, but about **
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=luizhmachadodevv&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizhmachadodevv&layout=compact&theme=tokyonight" />
 </p>
 
 ---
