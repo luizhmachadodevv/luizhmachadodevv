@@ -129,8 +129,6 @@ A mobile application developed as a software engineering project, focusing on **
 
 ### Backend
 
--   ☕ Java
--   🌱 Spring Boot
 -   🔌 RESTful APIs
 -   🔐 Authentication & Authorization
 -   🗄️ Database Design
