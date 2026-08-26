@@ -15,7 +15,7 @@ My interests go beyond writing code. I enjoy understanding **requirements, model
   <a href="https://github.com/luizhmachadodevv">
     <img src="https://img.shields.io/badge/GitHub-LUIZ%20HENRIQUE-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="SEU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/luiz-henrique-da-silva-machado/">
     <img src="https://img.shields.io/badge/LinkedIn-LUIZ%20HENRIQUE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
