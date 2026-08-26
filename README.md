@@ -79,6 +79,12 @@ I have hands-on experience with web applications, backend development, REST APIs
 
 ---
 
+## 🐍 Contribution Activity
+
+<p align="center"> <img src="https://raw.githubusercontent.com/caieteC137/caieteC137/output/github-contribution-grid-snake.svg" width="100%"/> </p>
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🏭 Simoldes — Digital Checklist Platform
