@@ -1,20 +1,17 @@
-![Matrix Header](./matrix_glitch_banner_luiz.svg)
-# Hi 👋, I'm Luiz Henrique
+![Matrix Header](./matrix_glitch_banner_wave.svg)
 
-💻 **Software Engineering Student | Software Development & Architecture**  
+<div align="center">
+  
+ ### Software Engineering Student | Software Development & Architecture  
 🇧🇷 Brazil
 
 I'm a Software Engineering student focused on **designing, developing, and understanding software systems**.
 
 My interests go beyond writing code. I enjoy understanding **requirements, modeling systems, designing architectures, defining APIs, structuring databases, and turning ideas into well-designed software solutions**.
 
-I have hands-on experience with web applications, backend development, REST APIs, databases, automation, data, and AI — and I'm currently deepening my knowledge in **Software Architecture, System Design, Java, AWS, DevOps, and Cloud Computing**.
+</div>
 
----
-
-## 🌐 Where to find me
-
-<p align="left">
+<p align="center">
   <a href="https://github.com/luizhmachadodevv">
     <img src="https://img.shields.io/badge/GitHub-LUIZ%20HENRIQUE-181717?style=for-the-badge&logo=github" />
   </a>
